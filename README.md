@@ -165,7 +165,7 @@ Code Coding Coded...
     &nbsp;
     <a href="https://git.io/streak-stats">
       <img align="center" 
-           src="https://github-readme-streak-stats.herokuapp.com?user=shahdharmil11&theme=algolia" 
+           src="https://github-readme-streak-stats-alpha-rust.vercel.app?user=shahdharmil11&theme=algolia" 
            alt="GitHub Streak" />
     </a>
   </p>
