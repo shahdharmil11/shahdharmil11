@@ -148,22 +148,29 @@ Code Coding Coded...
 <br/>
 
 ## 📊 Github Stats
-
-
-
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="shahdharmil11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shahdharmil11&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahdharmil11&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shahdharmil11" height="192px"/>
-  <br/>
-  &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdharmil11&&show_icons=true&locale=en&theme=algolia" alt="shahdharmil11" />
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="shahdharmil11's Github Stats" 
+           src="https://github-readme-stats.vercel.app/api?username=shahdharmil11&show_icons=true&count_private=true&theme=algolia" 
+           height="192px"/>
+    </a>
+    <br/>
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahdharmil11&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" 
+         alt="shahdharmil11" 
+         height="192px"/>
+    <br/>
+    &nbsp;
+    <a href="https://git.io/streak-stats">
+      <img align="center" 
+           src="https://github-readme-streak-stats.herokuapp.com?user=shahdharmil11&theme=algolia" 
+           alt="GitHub Streak" />
+    </a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
 ----
 
